@@ -163,7 +163,7 @@ main {
     border-top: 1px solid #ddd;
     overflow-y: auto;
 }
-
+ 
 .videos-container {
     display: flex;
     flex-direction: row;
@@ -222,7 +222,7 @@ main {
     -webkit-box-orient: vertical;
 }
 
-.video-creator, .title span {
+.video-creator, .title span{
     color: rgb(96, 96, 96);
     font-size: 1.4rem;
     line-height: 2rem;
